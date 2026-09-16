@@ -7,10 +7,10 @@
 
 以下以陈海山校长（2017）关于东亚夏季中纬度气旋与东亚夏季风的论文为例，展示完整页面的翻译与排版效果。
 
-| 图 1：英文原文标题页 | 图 2：英文原文中论文图 4 所在页 |
+| 图 1：英文原文标题页 | 图 2：英文原文正文示例页 |
 | :---: | :---: |
 | [![英文原文标题页，第 1 页](docs/images/demo-original-title.png)](docs/images/demo-original-title.png) | [![英文原文图 4 所在页，第 6 页](docs/images/demo-original-figure4.png)](docs/images/demo-original-figure4.png) |
-| 图 3：中文译文标题页 | 图 4：中文译文中论文图 4 所在页 |
+| 图 3：中文译文标题页 | 图 4：中文译文正文示例页 |
 | [![中文译文标题页，第 1 页](docs/images/demo-translated-title.png)](docs/images/demo-translated-title.png) | [![中文译文图 4 所在页，第 6 页](docs/images/demo-translated-figure4.png)](docs/images/demo-translated-figure4.png) |
 
 图 1、2 为文献原文，图 3、4 为中文译文。中文采用单栏排版，保留原图及英文图注，并补充中文图注和独立的“图中说明”。上表的演示图片编号与论文内部图号分别计数；点击图片可查看大图。
