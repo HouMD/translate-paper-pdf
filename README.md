@@ -167,3 +167,7 @@ TRANSLATE/中英_<原文献名>/
 许可全文见 [LICENSE](LICENSE)，中文说明见 [CC BY-NC 4.0 官方页面](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)。非商业使用、分享和修改须遵守该协议，包括适用的署名、提供许可链接和标明修改等要求。
 
 本项目属于源文件公开、商业使用受限的项目，不应标为 OSI 意义上的开源软件；参见 [Open Source Definition 第 6 条](https://opensource.org/osd)。许可证仅涵盖本项目材料，不授予第三方论文、图表或字体的权利。
+
+
+## 历史版本
+版本：v2.0   更新日期 26/9/17   更新内容：加入自我迭代功能；提高翻译速度；解决了“插图必须保持原比例”
